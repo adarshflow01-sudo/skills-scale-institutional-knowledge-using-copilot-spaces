@@ -15,3 +15,5 @@ Communication is structured and proactive, using templates for status updates, i
 ---
 
 For detailed process documents, see other files in the `docs/` folder.
+
+---
